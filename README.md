@@ -24,13 +24,11 @@ Runs the app in the development mode.
 
 ## Open http://localhost:3000(default)
 
-Opening the app in the browser http://localhost:3000;
-In the search bar search for the username of a Github user.
-You will see the list of gists created by the user.
-You can click on the description of a gist to get redirected to the Gist page.
-You can click on “show forks” to see the last three forks of the gist.
-That's it, pretty much.
-
+1. Opening the app in the browser http://localhost:3000;
+2. In the search bar search for the username of a Github user.
+3. You will see the list of gists created by the user.
+4. You can click on the description of a gist to get redirected to the Gist page.
+5. You can click on “show forks” to see the last three forks of the gist.
 
 ### `yarn test || npm run test`
 Will run the tests for all three components which are used to build the app
