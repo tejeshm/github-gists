@@ -1,0 +1,9 @@
+.main-container {
+    display: flex;
+    color: white;
+}
+
+.search-result-container{
+    height: 80vh;
+    overflow: scroll;
+}

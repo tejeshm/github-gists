@@ -1,0 +1,48 @@
+.fork-link{
+    color: rgba(0,0,0,.9);
+    cursor: pointer;
+    font-size: .875rem;
+}
+
+.gist-card{
+    font-size: 16px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+}
+.gist-card-left{
+    display: flex;
+    flex-direction: column;
+}
+.gist-card .row {
+    min-height: 100px;
+}
+
+.fork-column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*border-left: 1px solid rgba(0,0,0,.1);*/
+}
+
+.fork-list{
+    font-size: .875rem;
+}
+
+.card-title {
+    text-decoration: none;
+    color: rgba(0,0,0,.9);
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.sub-text{
+    color: rgba(0,0,0,.5);
+    font-size: .875rem;
+}
+
+.no-decoration{
+    text-decoration: none;
+}
+
+.avatar-image {
+    border-radius: 50%;
+}
